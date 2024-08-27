@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! # Uday Sahu
+<h2 align="left">Hi 👋! ## Uday Sahu
 
 ## About Me
 Hello! I'm Uday Sahu, a B.Tech student in Electronics and Communication Engineering (ECE) at IIIT Nagpur. I'm passionate about Machine Learning (ML) and Deep Learning (DL), constantly exploring and developing projects in these exciting fields.
