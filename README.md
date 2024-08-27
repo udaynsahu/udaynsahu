@@ -18,7 +18,3 @@ Hello! I'm Uday Sahu, a B.Tech student in Electronics and Communication Engineer
 - LeetCode: [[LeetCode.Uday-sahu](https://leetcode.com/u/uday5678/)]
 
 ###
-<br clear="both">
-<img src="https://raw.githubusercontent.com/udaynsahu/udaynsahu/output/snake.svg" alt="Snake animation" />
-
-###
