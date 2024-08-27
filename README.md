@@ -11,19 +11,11 @@ Hello! I'm Uday Sahu, a B.Tech student in Electronics and Communication Engineer
 - Machine Learning
 - Deep Learning
 - Python
-- [Add any other relevant skills, frameworks, or tools you're proficient in]
-
-## 🚀 Projects
-Here you'll find a collection of my ML and DL projects. Each repository showcases my journey in applying cutting-edge techniques to solve real-world problems.
-
-[You can list some of your top projects here with brief descriptions]
-
-## 🌱 Current Focus
-I'm currently working on [mention any ongoing projects or areas of study].
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn profile URL]
-- Email: [Your email address]
+- LinkedIn: [[linkedIn.Uday-sahu](https://www.linkedin.com/in/uday-narayan-sahu-a12a7b23b/)]
+- Email: [udaynarayansahu5@gmail.com]
+- LeetCode: [[LeetCode.Uday-sahu](https://leetcode.com/u/uday5678/)]
 
 
 
