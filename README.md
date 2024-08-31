@@ -16,5 +16,5 @@ Hello! I'm Uday Sahu, a B.Tech student in Electronics and Communication Engineer
 - LinkedIn: [[linkedIn.Uday-sahu](https://www.linkedin.com/in/uday-narayan-sahu-a12a7b23b/)]
 - Email: [udaynarayansahu5@gmail.com]
 - LeetCode: [[LeetCode.Uday-sahu](https://leetcode.com/u/uday5678/)]
-
+- Kaggle: [[Kaggle.Uday-sahu](https://www.kaggle.com/udaynsahu)]
 ###
